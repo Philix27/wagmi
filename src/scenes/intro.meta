@@ -1,0 +1,50 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "code",
+      "targetTime": 0.3
+    },
+    {
+      "name": "data",
+      "targetTime": 0.3
+    },
+    {
+      "name": "zoom_code",
+      "targetTime": 1.7
+    },
+    {
+      "name": "zoom_data",
+      "targetTime": 3.7
+    },
+    {
+      "name": "zoom_out",
+      "targetTime": 5.7
+    },
+    {
+      "name": "binary",
+      "targetTime": 7.7
+    },
+    {
+      "name": "bits",
+      "targetTime": 7.7
+    },
+    {
+      "name": "triangle",
+      "targetTime": 9.7
+    },
+    {
+      "name": "circle",
+      "targetTime": 11.299999999999999
+    },
+    {
+      "name": "useful",
+      "targetTime": 12.899999999999999
+    },
+    {
+      "name": "hide",
+      "targetTime": 14.899999999999999
+    }
+  ],
+  "seed": 779394657
+}
