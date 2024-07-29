@@ -6,6 +6,8 @@ import intro from "./scenes/intro?scene";
 
 import { Code, LezerHighlighter } from "@motion-canvas/2d";
 import { parser } from "@lezer/javascript";
+import welcome from "./scenes/welcome?scene";
+import audio from "./audio/voice.mp3";
 
 Code.defaultHighlighter = new LezerHighlighter(
   parser.configure({
@@ -15,5 +17,7 @@ Code.defaultHighlighter = new LezerHighlighter(
 );
 
 export default makeProject({
-  scenes: [example, codec, intro],
+  experimentalFeatures: true,
+  scenes: [welcome, codec, example, intro],
+  audio: audio,
 });

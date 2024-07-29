@@ -161,7 +161,9 @@ fn
 
   data().scale(0.0001).rotation(code().absoluteRotation);
   code().scale(0.0001);
+
   yield* waitFor(0.3);
+
   yield loop(() =>
     all(
       dataY(40, 2).back(2),
@@ -172,6 +174,7 @@ fn
   );
 
   yield* waitUntil("code");
+  
   const taskCode = yield all(
     code().scale(1, 1.4, easeOutExpo),
     backgroundSd(500, 1.4, easeOutExpo)

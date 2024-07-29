@@ -7,43 +7,43 @@
     },
     {
       "name": "data",
-      "targetTime": 0.3
+      "targetTime": 1.1964887445511878
     },
     {
       "name": "zoom_code",
-      "targetTime": 1.7
+      "targetTime": 2.5964887445511877
     },
     {
       "name": "zoom_data",
-      "targetTime": 3.7
+      "targetTime": 4.615296200730583
     },
     {
       "name": "zoom_out",
-      "targetTime": 5.7
+      "targetTime": 6.615296200730583
     },
     {
       "name": "binary",
-      "targetTime": 7.7
+      "targetTime": 9.104290061394867
     },
     {
       "name": "bits",
-      "targetTime": 7.7
+      "targetTime": 9.104290061394867
     },
     {
       "name": "triangle",
-      "targetTime": 9.7
+      "targetTime": 11.104290061394867
     },
     {
       "name": "circle",
-      "targetTime": 11.299999999999999
+      "targetTime": 12.704290061394866
     },
     {
       "name": "useful",
-      "targetTime": 12.899999999999999
+      "targetTime": 14.304290061394866
     },
     {
       "name": "hide",
-      "targetTime": 14.899999999999999
+      "targetTime": 16.304290061394866
     }
   ],
   "seed": 779394657
