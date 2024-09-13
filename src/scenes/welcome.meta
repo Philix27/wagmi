@@ -1,14 +1,5 @@
 {
   "version": 0,
-  "timeEvents": [
-    {
-      "name": "intro",
-      "targetTime": 5.463186853926787
-    },
-    {
-      "name": "smartContract",
-      "targetTime": 10.504811600327955
-    }
-  ],
-  "seed": 3655257725
+  "timeEvents": [],
+  "seed": 2035382352
 }
